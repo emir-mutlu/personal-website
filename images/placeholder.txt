@@ -1,0 +1,8 @@
+This directory contains the following image files that should be replaced with your actual images:
+
+1. profile.jpg - Your professional headshot for the hero section
+2. project1.jpg - Image for your Car Sales Application Website project
+3. project2.jpg - Image for your Personal Website project
+4. about-me.jpg - A casual photo of you for the About Me section
+
+Please replace these placeholder files with actual images to complete your website.
